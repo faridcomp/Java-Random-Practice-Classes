@@ -1,0 +1,230 @@
+2022-03-29 19:14:00,722 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-29 19:14:00,722 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-29 19:14:00,996 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 19:14:00,996 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 19:14:01,601 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 19:14:01,601 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 19:14:02,134 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 19:14:02,134 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 19:14:02,885 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 19:14:02,885 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 19:14:03,036 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-29 19:14:03,036 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-29 19:21:57,582 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-29 19:21:57,582 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-29 19:22:04,089 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-29 19:22:04,089 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-29 19:22:04,243 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 19:22:04,243 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 19:22:04,771 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 19:22:04,771 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 19:22:05,201 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 19:22:05,201 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 19:22:05,882 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 19:22:05,882 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 19:22:06,018 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-29 19:22:06,018 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-29 19:22:06,615 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-29 19:22:06,615 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-29 21:53:18,710 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-29 21:53:18,710 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-29 21:53:25,418 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-29 21:53:25,418 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-29 21:53:26,238 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 21:53:26,238 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 21:53:27,193 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 21:53:27,193 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 21:53:27,685 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 21:53:27,685 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 21:53:28,579 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 21:53:28,579 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 21:53:28,692 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-29 21:53:28,692 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-29 21:53:29,261 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-29 21:53:29,261 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-29 21:57:44,672 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-29 21:57:44,672 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-29 21:57:51,016 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-29 21:57:51,016 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-29 21:57:51,905 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 21:57:51,905 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 21:57:52,788 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 21:57:52,788 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 21:57:53,196 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 21:57:53,196 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 21:57:54,034 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 21:57:54,034 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 21:57:54,140 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-29 21:57:54,140 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-29 21:57:54,892 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-29 21:57:54,892 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-29 22:02:34,034 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-29 22:02:34,034 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-29 22:02:40,487 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-29 22:02:40,487 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-29 22:02:41,237 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 22:02:41,237 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 22:02:42,234 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 22:02:42,234 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 22:02:42,631 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 22:02:42,631 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-29 22:02:43,604 - logger_File -INFO - user clicked on MyAccount
+2022-03-29 22:02:43,604 [main] INFO logger_File - user clicked on MyAccount
+2022-03-29 22:02:43,709 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-29 22:02:43,709 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-29 22:02:44,396 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-29 22:02:44,396 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-30 18:54:11,499 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-30 18:54:11,499 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-30 18:54:20,631 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-30 18:54:20,631 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-30 18:54:21,873 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 18:54:21,873 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 18:54:22,810 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 18:54:22,810 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 18:54:23,289 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 18:54:23,289 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 18:54:24,338 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 18:54:24,338 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 18:54:24,488 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-30 18:54:24,488 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-30 18:54:25,309 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-30 18:54:25,309 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-30 19:12:56,093 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-30 19:12:56,093 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-30 19:13:04,496 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-30 19:13:04,496 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-30 19:13:04,857 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:13:04,857 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:13:05,816 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:13:05,816 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:13:06,273 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:13:06,273 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:13:07,129 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:13:07,129 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:13:07,236 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-30 19:13:07,236 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-30 19:13:07,811 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-30 19:13:07,811 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-30 19:37:00,695 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-30 19:37:00,695 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-30 19:37:08,660 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-30 19:37:08,660 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-30 19:37:09,526 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:37:09,526 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:37:10,610 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:37:10,610 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:37:11,021 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:37:11,021 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:37:11,929 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:37:11,929 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:37:12,072 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-30 19:37:12,072 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-30 19:37:12,645 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-30 19:37:12,645 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-30 19:40:41,834 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-30 19:40:41,834 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-30 19:40:48,899 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-30 19:40:48,899 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-30 19:40:49,471 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:40:49,471 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:40:50,398 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:40:50,398 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:40:50,779 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:40:50,779 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:40:51,666 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:40:51,666 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:40:51,759 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-30 19:40:51,759 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-30 19:40:52,392 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-30 19:40:52,392 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-30 19:45:09,949 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-30 19:45:09,949 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-30 19:45:16,990 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-30 19:45:16,990 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-30 19:45:18,092 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:45:18,092 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:45:18,828 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:45:18,828 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:45:19,330 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:45:19,330 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:45:20,293 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:45:20,293 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:45:20,405 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-30 19:45:20,405 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-30 19:45:21,194 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-30 19:45:21,194 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-30 19:48:11,236 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-30 19:48:11,236 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-30 19:48:18,392 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-30 19:48:18,392 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-30 19:48:18,905 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:48:18,905 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:48:20,222 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:48:20,222 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:48:20,653 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:48:20,653 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:48:21,733 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:48:21,733 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:48:21,840 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-30 19:48:21,840 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-30 19:48:22,444 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-30 19:48:22,444 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-30 19:50:45,837 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-30 19:50:45,837 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-30 19:50:52,459 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-30 19:50:52,459 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-30 19:50:53,264 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:50:53,264 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:50:54,095 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:50:54,095 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:50:54,478 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:50:54,478 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 19:50:55,365 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 19:50:55,365 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 19:50:55,481 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-30 19:50:55,481 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-30 19:50:56,379 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-30 19:50:56,379 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-30 20:27:51,351 - logger_File -INFO - ScenarioRetail website Login testStarted
+2022-03-30 20:27:51,351 [main] INFO logger_File - ScenarioRetail website Login testStarted
+2022-03-30 20:27:57,893 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-30 20:27:57,893 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-30 20:27:58,628 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 20:27:58,628 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 20:27:59,443 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 20:27:59,443 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 20:27:59,839 - logger_File -INFO - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 20:27:59,839 [main] INFO logger_File - user entered jamesme22@tekschoo.us and passwordJames2334400
+2022-03-30 20:28:00,646 - logger_File -INFO - user clicked on MyAccount
+2022-03-30 20:28:00,646 [main] INFO logger_File - user clicked on MyAccount
+2022-03-30 20:28:00,742 - logger_File -INFO - user logged in to on MyAccount Dashboard
+2022-03-30 20:28:00,742 [main] INFO logger_File - user logged in to on MyAccount Dashboard
+2022-03-30 20:28:01,318 - logger_File -INFO - ScenarioRetail website Login test PASSED
+2022-03-30 20:28:01,318 [main] INFO logger_File - ScenarioRetail website Login test PASSED
+2022-03-31 20:07:26,673 - logger_File -INFO - ScenarioCreate new user account in Test EnvironmentStarted
+2022-03-31 20:07:26,673 [main] INFO logger_File - ScenarioCreate new user account in Test EnvironmentStarted
+2022-03-31 20:07:36,670 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-03-31 20:07:36,670 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-03-31 20:07:37,461 - logger_File -INFO - user clicked on MyAccount
+2022-03-31 20:07:37,461 [main] INFO logger_File - user clicked on MyAccount
+2022-03-31 20:07:38,598 - logger_File -INFO - ScenarioCreate new user account in Test Environment UNDEFINED
+2022-03-31 20:07:38,598 [main] INFO logger_File - ScenarioCreate new user account in Test Environment UNDEFINED
+2022-04-01 19:03:04,223 - logger_File -INFO - ScenarioCreate new user account in Test EnvironmentStarted
+2022-04-01 19:03:04,223 [main] INFO logger_File - ScenarioCreate new user account in Test EnvironmentStarted
+2022-04-01 19:03:11,596 - logger_File -INFO - Actual title is matchting with the expected Title.
+2022-04-01 19:03:11,596 [main] INFO logger_File - Actual title is matchting with the expected Title.
+2022-04-01 19:03:12,668 - logger_File -INFO - user clicked on MyAccount
+2022-04-01 19:03:12,668 [main] INFO logger_File - user clicked on MyAccount
+2022-04-01 19:03:14,218 - logger_File -INFO - user clicked on Register
+2022-04-01 19:03:14,218 [main] INFO logger_File - user clicked on Register
+2022-04-01 19:03:15,595 - logger_File -INFO - user entered personal information[{firstName=alex, lastName=ahmad, email=alexahmad@gmail.com, telephone=2012342221, password=WrongPass, passwordConfirm=WrongPass, subscribe=yes}]
+2022-04-01 19:03:15,595 [main] INFO logger_File - user entered personal information[{firstName=alex, lastName=ahmad, email=alexahmad@gmail.com, telephone=2012342221, password=WrongPass, passwordConfirm=WrongPass, subscribe=yes}]
+2022-04-01 19:03:15,975 - logger_File -INFO - User clicked on Privacy and Policy checkBox
+2022-04-01 19:03:15,975 [main] INFO logger_File - User clicked on Privacy and Policy checkBox
+2022-04-01 19:03:16,708 - logger_File -INFO - User clicked Continue Button
+2022-04-01 19:03:16,708 [main] INFO logger_File - User clicked Continue Button
+2022-04-01 19:03:16,790 - logger_File -INFO - Account created successfully
+2022-04-01 19:03:16,790 [main] INFO logger_File - Account created successfully
+2022-04-01 19:03:17,423 - logger_File -INFO - ScenarioCreate new user account in Test Environment PASSED
+2022-04-01 19:03:17,423 [main] INFO logger_File - ScenarioCreate new user account in Test Environment PASSED
